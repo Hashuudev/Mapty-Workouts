@@ -34,3 +34,5 @@ Ability to delete all workouts.
 * Ability to draw lines and shapes instead of just points.
 * Display weather data for workout time and place .
 * Improve responsiveness for mobile device and customize the UI to make more user friendly.
+
+# Screenshots
