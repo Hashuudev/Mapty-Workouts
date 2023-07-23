@@ -4,6 +4,12 @@ Mapty is a map application made with Vanilla JavaScript to store workouts like r
 # Mapty-Workouts
 This is a web application where the goal is to log the workouts(running or cycling) for the users in their desired location and set some specifications for their workout accordingly. This application is built using Advanced Javascript with Object-Oriented Programming which uses Geolocation APIs, Browser APIs along with some External libraries.
 
+# Technology-Used
+* HTML
+* CSS
+* JavaScript
+* Leaflet Api
+
 # Key-Functionality
 The user can choose any point on the map and choose between running or cycling. In order to submit the workout, the user needs to fill out several details like distance, duration, cadence or elevation. All the workout will be saved after choosing any new workout option. The user is able to find the workout on the map by clicking on the list. The list contains workout details like pace, cadence, duration, speed as well as the date of the workout. If the user reloads the page, all the data will be saved.
 * Real time geolocation update.
