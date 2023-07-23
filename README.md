@@ -36,3 +36,5 @@ Ability to delete all workouts.
 * Improve responsiveness for mobile device and customize the UI to make more user friendly.
 
 # Screenshots
+
+![1](https://github.com/Hashuudev/Mapty-Workouts/assets/94761963/98bb7c33-d041-472f-af83-fae89f6196ed)
